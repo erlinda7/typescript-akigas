@@ -1,0 +1,22 @@
+{
+  "name": "typescript-makigas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erlinda7/typescript-akigas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erlinda7/typescript-akigas/issues"
+  },
+  "homepage": "https://github.com/erlinda7/typescript-akigas#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
